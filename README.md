@@ -1,0 +1,2 @@
+# Labs-Management-System
+Lab Management System that stores information about TAs, instructors, and venues. Manages regular and makeup lab schedules and generates reports, such as weekly schedule reports, timesheet reports, and overall semester summary reports. Provides separate interfaces for TAs, instructors, Head of Department, Academic Officer, and attendants. Uses binary files for data storage and authentication. Implemented following proper design principles and SOLID guidelines.
